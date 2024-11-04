@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucoreana.github.io/FpX/sitemap_index.txt
+Sitemap: https://ucoreana.github.io/GXv/sitemap_index.txt
+Sitemap: https://ucoreana.github.io/kiV/sitemap_index.txt
+Sitemap: https://ucoreana.github.io/qZg/sitemap_index.txt
